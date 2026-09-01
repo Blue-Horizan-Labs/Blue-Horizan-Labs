@@ -1,4 +1,4 @@
-```css
+
 /* =========================================================
    BLUE HORIZON LABS
    MAIN STYLESHEET
@@ -902,7 +902,7 @@ img {
 }
 
 .product-logo-mark {
-    width: 38px;
+    width: 38px; 
     height: 38px;
 
     display: grid;
@@ -1856,4 +1856,3 @@ img {
     }
 
 }
-```
