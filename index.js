@@ -1,4 +1,4 @@
-```javascript
+
 /* =========================================================
    BLUE HORIZON LABS
    MAIN JAVASCRIPT
@@ -508,4 +508,4 @@ document.addEventListener(
 
     }
 );
-```
+
